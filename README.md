@@ -1,2 +1,0 @@
-# mathApp
-math app
